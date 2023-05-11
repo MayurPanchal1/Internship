@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internship Login</string>
+    <string name="facebook_app_id">5995022860612040</string>
+    <string name="fb_login_protocol_scheme">fb5995022860612040</string>
+    <string name="facebook_client_token">01ee3fdee67c258b3db1e073abeeb507</string>
+</resources>
